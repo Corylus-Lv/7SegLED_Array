@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:/Users/h-koyama/Documents/KiCAD/7SegLED_Array/7SegLED_Array.sch)
-    (date "2018/03/22 15:57:44")
+    (date "2018/04/11 13:15:43")
     (tool "Eeschema 4.0.7")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -206,8 +206,6 @@
         (pin (num 17) (name O2) (type openCol))
         (pin (num 18) (name O1) (type openCol)))))
   (libraries
-    (library (logical device)
-      (uri "C:\\Program Files\\KiCad\\share\\kicad\\library\\device.lib"))
     (library (logical conn)
       (uri "C:\\Program Files\\KiCad\\share\\kicad\\library\\conn.lib"))
     (library (logical display)
@@ -215,7 +213,9 @@
     (library (logical RT1P137P)
       (uri C:\Users\h-koyama\Documents\KiCAD\kicad-lib\library\RT1P137P.lib))
     (library (logical TBD62083A)
-      (uri C:\Users\h-koyama\Documents\KiCAD\kicad-lib\library\TBD62083A.lib)))
+      (uri C:\Users\h-koyama\Documents\KiCAD\kicad-lib\library\TBD62083A.lib))
+    (library (logical device)
+      (uri "C:\\Program Files\\KiCad\\share\\kicad\\library\\device.lib")))
   (nets
     (net (code 1) (name "Net-(R1-Pad1)")
       (node (ref U4) (pin 5))
