@@ -1,4 +1,4 @@
-update=2018/03/22 12:25:33
+update=2018/04/11 16:20:25
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=C:/Users/h-koyama/Documents/KiCAD/kicad-lib/library
+LibDir=../kicad-lib/library
 [eeschema/libraries]
 LibName1=7SegLED_Array-rescue
 LibName2=power
