@@ -1,4 +1,4 @@
-update=2018/04/11 16:20:25
+update=2018/04/12 9:06:33
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,4 @@ LibName29=contrib
 LibName30=valves
 LibName31=RT1P137P
 LibName32=TBD62083A
+LibName33=CSD-5622D
